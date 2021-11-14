@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @daniellem28 😌
 - 👀 I’m interested in combining the two fields I'm currently working in - tech and children's social care 💻 👪
 - 🌱 I’m currently learning how to use Git and GitHub. 😀
-- 💞️ I’m looking to collaborate on \*see question 2\* 💾
+- 💞️ I’m looking to collaborate on \*see point 2\* 💾
 - 📫 How to reach me - once I get around to working this out, I'll let you know! 😝
 
 What are you interested in learning? 
